@@ -4,8 +4,6 @@
 <a href="https://twitter.com/phraaaaaaa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/phra/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-<br />
-
 Check my blog at [https://iwantmore.pizza](https://iwantmore.pizza)!
 
 ## About Me
@@ -40,7 +38,8 @@ Arrr! I'm also a member of [@d0nkeys](https://github.com/d0nkeys) CTF Team!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![phra's github stats](https://github-readme-stats.vercel.app/api?username=phra&show_icons=true&hide_border=true)
+![phra's github stats](https://github-readme-stats.vercel.app/api?username=phra&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phra&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phra/phra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
