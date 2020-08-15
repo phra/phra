@@ -1,4 +1,4 @@
-# Hey 👋, I'm phra
+# Hey 👋, I'm phra!
 
 <a href="https://www.linkedin.com/in/phraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/phraaaaaaa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -18,7 +18,7 @@ I'm an InfoSec and JavaScript enthusiast and I'm currently working as Ethical Ha
 
 As Red Teamer, I challenge the security of the internal infrastructure and deployed software simulating a dedicated attacker and executing the worst-case scenario in order to ensure that security countermeasures are taken ASAP.
 
-Development wise I'm very interested in Functional Reactive Programming, Agile Development, Development Operations, System Administration, High Availability/Fault-Tolerance Distributed Systems.
+Development wise I'm very interested in Functional Reactive Programming, Agile Development, Development Operations, System Administration, and Development Experience.
 
 I also enjoy giving talks about bleeding-edge researches and web technologies.
 
@@ -37,6 +37,7 @@ Arrr! I'm also a member of [@d0nkeys](https://github.com/d0nkeys) CTF Team!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ## Stats
 
