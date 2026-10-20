@@ -18,7 +18,7 @@ I love bridging the gap between offensive security and modern software engineeri
 * 🤖 **AI & Automation:** I am currently focused on exploring and building **automated, agentic AI workflows**, leveraging autonomous agents to solve complex engineering and security challenges.
 * 💻 **Software Engineering & Architecture:** Beyond breaking things, I care deeply about how software is built. My main interests include **Functional Reactive Programming (FRP)**, **DevOps**, **System Administration**, **Agile practices**, and crafting a great **Developer Experience (DX)**.
 * 🎤 **Public Speaking & Community:** I enjoy sharing my findings with the community by speaking at conferences and meetups about bleeding-edge security research and emerging technologies.
-* 🏴‍☠️ **Capture The Flag:** *Arrr!* I'm an active member of the [@d0nkeys](https://github.com/d0nkeys) CTF Team.
+* 🏴‍☠️ **Capture The Flag:** *Arrr!* I am a proud member of the now-retired [@d0nkeys](https://github.com/d0nkeys) CTF team.
 
 ## Languages and Tools
 
