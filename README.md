@@ -4,57 +4,27 @@
 <a href="https://twitter.com/phraaaaaaa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/phra/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Check my blog at [https://iwantmore.pizza](https://iwantmore.pizza)!
+📝 Read my latest research and articles on my blog: **[phra.github.io](https://phra.github.io/)**
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="320" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I'm **Francesco Soncina**, a **security researcher** living in **Amsterdam, NL**.
+I'm **Francesco Soncina**, a **Security Researcher** and software enthusiast based in **Amsterdam, NL**, with a Bachelor's Degree from the University of Bologna. 
 
-I got a Bachelor's Degree from the University of Bologna.
+I love bridging the gap between offensive security and modern software engineering, combining a deep passion for **InfoSec**, **JavaScript/TypeScript** ecosystems, and low-level systems programming.
 
-I'm an InfoSec and JavaScript enthusiast and I'm currently working as Ethical Hacker / Red Teamer for [@ABNAMRO](https://github.com/ABNAMRO).
-
-As Red Teamer, I challenge the security of the internal infrastructure and deployed software simulating a dedicated attacker and executing the worst-case scenario in order to ensure that security countermeasures are taken ASAP.
-
-Development wise I'm very interested in Functional Reactive Programming, Agile Development, Development Operations, System Administration, and Development Experience.
-
-I also enjoy giving talks about bleeding-edge researches and web technologies.
-
-Arrr! I'm also a member of [@d0nkeys](https://github.com/d0nkeys) CTF Team!
+* 🛡️ **Red Teaming & Offensive Security:** I currently work as an **Ethical Hacker / Red Teamer** at [@ABNAMRO](https://github.com/ABNAMRO). I challenge the resilience of internal infrastructure and production software by simulating dedicated adversaries and executing worst-case attack scenarios—ensuring security countermeasures and detections are implemented proactively.
+* 🤖 **AI & Automation:** I am currently focused on exploring and building **automated, agentic AI workflows**, leveraging autonomous agents to solve complex engineering and security challenges.
+* 💻 **Software Engineering & Architecture:** Beyond breaking things, I care deeply about how software is built. My main interests include **Functional Reactive Programming (FRP)**, **DevOps**, **System Administration**, **Agile practices**, and crafting a great **Developer Experience (DX)**.
+* 🎤 **Public Speaking & Community:** I enjoy sharing my findings with the community by speaking at conferences and meetups about bleeding-edge security research and emerging technologies.
+* 🏴‍☠️ **Capture The Flag:** *Arrr!* I'm an active member of the [@d0nkeys](https://github.com/d0nkeys) CTF Team.
 
 ## Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,vue,react,angular,py,c,cpp,rust,zig,git,bash&theme=dark)](https://skillicons.dev)
 
 ## Stats
 
 ![phra's github stats](https://github-readme-stats.vercel.app/api?username=phra&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phra&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=phra)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**phra/phra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
