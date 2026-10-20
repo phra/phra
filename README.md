@@ -22,7 +22,7 @@ I love bridging the gap between offensive security and modern software engineeri
 
 ## Languages and Tools
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=10&theme=ambient_gradient)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=phra&hide_progress=true&langs_count=10&theme=ambient_gradient)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,vue,react,angular,py,c,cpp,rust,zig,git,bash&theme=dark)](https://skillicons.dev)
 
