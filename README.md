@@ -22,9 +22,13 @@ I love bridging the gap between offensive security and modern software engineeri
 
 ## Languages and Tools
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=10&theme=ambient_gradient)
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,vue,react,angular,py,c,cpp,rust,zig,git,bash&theme=dark)](https://skillicons.dev)
 
 ## Stats
 
-![phra's github stats](https://github-readme-stats.vercel.app/api?username=phra&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phra&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
+
+
