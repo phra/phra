@@ -12,7 +12,7 @@
 
 I'm **Francesco Soncina**, a **Security Researcher** and software enthusiast based in **Amsterdam, NL**, with a Bachelor's Degree from the University of Bologna. 
 
-I love bridging the gap between offensive security and modern software engineering, combining a deep passion for **InfoSec**, **Artificial Intelligence**, **JavaScript/TypeScript** ecosystems, and low-level systems programming.
+I love bridging the gap between offensive security and modern software engineering, combining a deep passion for **InfoSec**, **Artificial Intelligence**, **JavaScript/TypeScript** ecosystems, and **low-level** systems programming.
 
 * 🛡️ **Red Teaming & Offensive Security:** I currently work as an **Ethical Hacker / Red Teamer** at [@ABNAMRO](https://github.com/ABNAMRO). I challenge the resilience of internal infrastructure and production software by simulating dedicated adversaries and executing worst-case attack scenarios—ensuring security countermeasures and detections are implemented proactively.
 * 🤖 **AI & Automation:** I am currently focused on exploring and building **automated, agentic AI workflows**, leveraging autonomous agents to solve complex engineering and security challenges.
